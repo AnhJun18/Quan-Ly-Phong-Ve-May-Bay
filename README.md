@@ -1,5 +1,9 @@
 #  Đồ Án Môn Lập Trình Hướng Đối Tượng OOP - PTITHCM
  Phần Mềm Quản Lý Phòng Vé Máy Bay
+ # Introduction
+- Phần mềm quản lý phòng vé hỗ trợ các hoạt động của 1 phòng vé máy bay
+  theo như quản lý máy bay, sân bay, đường bay, quản lý thông tin chuyến bay, quản
+  lý thông tin hãng hàng không, quản lý thông tin khách hàng...
 # Contributors
 - GVHD :  `Nguyễn Thị Tuyết Hải`
 - Người thực hiện : `Lê Phương Anh`
@@ -11,10 +15,7 @@ nếu chưa có thể tải theo link sau:  [Tải ngay](https://docs.aws.amazon
 - Tải source code phía trên và chạy bằng IDE vừa cài 
 
     `Lưu ý` : Nếu không kết nối được Database hãy dựng lại Database mới theo file backup trong đồ án.
-# Introduction
-- Phần mềm quản lý phòng vé hỗ trợ các hoạt động của 1 phòng vé máy bay
-  theo như quản lý máy bay, sân bay, đường bay, quản lý thông tin chuyến bay, quản
-  lý thông tin hãng hàng không, quản lý thông tin khách hàng...
+
 # Screenshot
 ![](QLPV/src/images/SC_DN.png)
 ______![](QLPV/src/images/SC_DKI.png)
